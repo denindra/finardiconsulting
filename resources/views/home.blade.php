@@ -96,7 +96,7 @@
   <section class="section" id="services">
     <div class="container">
       <header class="section-header">
-        <h2 class="text-dark fw-700">Type Of Services</h2>
+        <h2 class="text-dark fw-700">Services</h2>
         <hr class="text-primary fw-700 mt-2">
         <p class="fs-20 display-5 text-center ls-1">Partener to us means what we care about your business's success just
           as much as you do. since we are talking business strategy, ours is to be your long-term collaborative team.

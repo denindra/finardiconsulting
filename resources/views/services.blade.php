@@ -7,7 +7,7 @@
         <div class="row align-items-center h-100">
 
             <div class="col-md-7 mx-auto">
-                <h2 class="ls-0 text-capitalize fw-700">Type Of Services</h2>
+                <h2 class="ls-0 text-capitalize fw-700">Services</h2>
                 <p class="lead-3  ls-1">Partener to us means what we care about your business's success just
                     as much as you do. since we are talking business strategy, ours is to be your long-term collaborative team.
                     our holistic approach looks at the big picture and will guide you through the smallest details.
