@@ -26,7 +26,7 @@
     
             <div class="col-md-6">
               <div class="video-btn-wrapper">
-                <img class="shadow-4 rounded-lg" src="http://127.0.0.1:8000/images/team2.jpg" alt="watch a video">
+                <img class="shadow-4 rounded-lg" src="{{asset('images/team2.jpg')}}" alt="watch a video">
               </div>
             </div>
     
