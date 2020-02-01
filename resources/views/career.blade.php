@@ -1,7 +1,7 @@
 @extends('layout.master')
-@section('title','')
-
-
+@section('title')
+Career
+@endsection
 @section('content')
 <header class="header "    style="background-image: url({{asset('images/pattern-bg1.jpg')}});background-size:cover;background-position:center;">
     <div class="container">
@@ -74,7 +74,7 @@
                                </div>
                                 <div class="col-md-3 my-2 text-center">
                                     <a type="button" class="btn btn-lg btn-primary"
-                                    href="mailto: atika.hasna@ffinardiconsulting.com">Apply Now</a>
+                                    href="mailto: atika.hasna@finardiconsulting.com">Apply Now</a>
                                 </div>
 
                             </div>
@@ -104,7 +104,7 @@
                                    </div>
                                 <div class="col-md-3 my-2 text-center">
                                     <a type="button" class="btn btn-lg btn-primary"
-                                    href="mailto: atika.hasna@ffinardiconsulting.com">Apply Now</a>
+                                    href="mailto: atika.hasna@finardiconsulting.com">Apply Now</a>
                                 </div>
 
                             </div>
@@ -134,7 +134,7 @@
                                    </div>
                                 <div class="col-md-3 my-2 text-center">
                                     <a type="button" class="btn btn-lg btn-primary"
-                                        href="mailto: atika.hasna@ffinardiconsulting.com">Apply Now</a>
+                                        href="mailto: atika.hasna@finardiconsulting.com">Apply Now</a>
                                 </div>
 
                             </div>
@@ -165,7 +165,7 @@
                                    </div>
                                 <div class="col-md-3 my-2 text-center">
                                     <a type="button" class="btn btn-lg btn-primary"
-                                        href="mailto: atika.hasna@ffinardiconsulting.com">Apply Now</a>
+                                        href="mailto: atika.hasna@finardiconsulting.com">Apply Now</a>
                                 </div>
 
                             </div>

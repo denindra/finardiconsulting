@@ -1,5 +1,7 @@
 @extends('layout.master')
-@section('title','')
+@section('title')
+Home
+@endsection
 @section('content')
 <header class="header header-inverse py-12 pb-0 overflow-hidden"
   style="background-image: url({{asset('images/slide.jpg')}});background-size:cover;background-position:center;"

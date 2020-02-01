@@ -1,5 +1,7 @@
 @extends('layout.master')
-@section('title','')
+@section('title')
+About & Expertise
+@endsection
 @section('content')
 <header class="header "
     style="background-image: url({{asset('images/pattern-bg1.jpg')}});background-size:cover;background-position:center;">
@@ -179,7 +181,7 @@
 
                             <div class="col-12 align-self-end">
                                 <div class="social social-inline social-sm social-light">
-                                    <a class="text-white fw-600" href="#">agus.finardi@finardiconsulting.com</a>
+                                    <a class="text-white fw-600" href="mailto: agus.finardi@finardiconsulting.com">agus.finardi@finardiconsulting.com</a>
 
                                 </div>
                             </div>
@@ -199,7 +201,7 @@
 
                             <div class="col-12 align-self-end">
                                 <div class="social social-inline social-sm social-light">
-                                    <a class="text-white fw-600" href="#">albertus.saptoprijono@finardiconsulting.com</a>
+                                    <a class="text-white fw-600" href="mailto: albertus.saptoprijono@finardiconsulting.com">albertus.saptoprijono@finardiconsulting.com</a>
 
                                 </div>
                             </div>
@@ -217,7 +219,7 @@
 
                             <div class="col-12 align-self-end">
                                 <div class="social social-inline social-sm social-light">
-                                    <a class="text-white fw-600" href="#">iyong.bandono@finardiconsulting.com</a>
+                                    <a class="text-white fw-600" href="mailto: iyong.bandono@finardiconsulting.com">iyong.bandono@finardiconsulting.com</a>
 
                                 </div>
                             </div>
@@ -235,8 +237,8 @@
 
                             <div class="col-12 align-self-end">
                                 <div class="social social-inline social-sm social-light">
-                                    <a class="text-white fw-600" href="#">atika.hasna@finardiconsulting.com</a>
-
+                                    <a class="text-white fw-600"  href="mailto: atika.hasna@finardiconsulting.com">atika.hasna@finardiconsulting.com</a>
+                                   
                                 </div>
                             </div>
                         </div>

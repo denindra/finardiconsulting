@@ -1,5 +1,7 @@
 @extends('layout.master')
-@section('title','')
+@section('title')
+Connect
+@endsection
 @section('content')
 <header class="header "
     style="background-image: url({{asset('images/pattern-bg1.jpg')}});background-size:cover;background-position:center;">
