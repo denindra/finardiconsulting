@@ -99,25 +99,14 @@
                 </div>
                 <div class="col-md-4">
                     <h6 class="text-primary">Retail & Distribution</h6>
-                    <p>Some channels will work better than
-                        As a result, determining your
-                        a holistic analyzing could bring your business to the wrong
-                        direction. Evaluating the performance o
-                        each channel is critical to improving
-                        your decision and to figure out what
-                        channel works best for your company.
+                    <p>Some channels will work better than others. As a result, determining your channel before a holistic analyzing could bring your business to the wrong direction. Evaluating the performance of each channel is critical to improving your decision and to figure out what channel works best for your company.
 
                     </p>
                 </div>
                 <div class="col-md-4">
                     <h6 class="text-primary"> Market Penetration</h6>
-                    <p>Choosing the best strategy to appear in a
-                        new market is like choosing a vehicle.
-                        The right strategy will take you to your
-                        desired point, faster and safer. By
-                        calculating every possibility, we match
-                        your desire to emerge in a new market
-                        with the best suitable approach.
+                    <p>Choosing the best strategy to appear in a new market is like choosing a vehicle. The right strategy will take you to your desired point, faster and safer. By calculating every possibility, we match your desire to emerge in a new market with the best suitable approach. 
+
 
                     </p>
                 </div>
@@ -135,11 +124,8 @@
                     <p class="small-2 text-uppercase text-lightest fw-500 ls-1">Experitse 3.</p>
                     <h3 class="fw-500">Implementation</h3>
                     <br>
-                    <p>From targeted solutions that yield an
-                        immediate impact to broad transformation
-                        programs that redefine how work gets done;
-                        enables you to take each capacity within
-                        your company to new levels of performance.
+                    <p>From targeted solutions that yield an immediate impact to broad transformation programs that redefine how work gets done; enables you to take each capacity within your company to new levels of performance. 
+
                     </p>
                 </div>
 
@@ -155,22 +141,12 @@
             <div class="row gap-y">
                 <div class="col-md-6">
                     <h6 class="text-primary">Retail & Distribution</h6>
-                    <p>Channel controlling take a crucial part
-                        for your company performance. With
-                        our expertise, we align your desire to
-                        grow to the stage of execution where we
-                        believe it's applicable, reliable, and
-                        profitable.</p>
+                    <p>Channel controlling take a crucial part for your company performance. With our expertise, we align your desire to grow to the stage of execution where we believe it’s applicable, reliable, and profitable.</p>
                 </div>
                 <div class="col-md-6">
                     <h6 class="text-primary">Food & Beverages</h6>
-                    <p>We provide a full range of services
-                        started from the formulation of
-                        management plans and define business
-                        process to improve proficiency and to
-                        offer practical, innovative, and
-                        actionable solutions to owners and
-                        operators.
+                    <p>We provide a full range of services started from the formulation of management plans and define business process to improve proficiency and to offer practical, innovative, and actionable solutions to owners and operators. 
+
                     </p>
                 </div>
 
@@ -185,7 +161,7 @@
             <header class="section-header">
                 <h2 class="fw-600">Our Family</h2>
                 <hr>
-                <p class="lead">Meet our small team that make those great products.</p>
+                
             </header>
 
 
@@ -195,15 +171,15 @@
                 <div class="col-md-6">
                     <div class="card bg-img h-250" style="background-image: url({{asset('images/team3.jpg')}});"
                         data-overlay="5">
-                        <div class="row h-100 px-6 py-5 text-right">
+                        <div class="row h-100 px-6 py-5 ">
                             <div class="col-12">
-                                <h5>John Senating</h5>
-                                <p class="text-uppercase small-3 ls-2 fw-500 text-primary">Co-Founder &amp; CEO</p>
+                                <h5>B. Agus Finardi</h5>
+                                <p class="text-uppercase small-3 ls-2 fw-500 text-primary">Partner</p>
                             </div>
 
                             <div class="col-12 align-self-end">
                                 <div class="social social-inline social-sm social-light">
-                                    <a class="text-primary fw-600" href="#">jojo@gmail.com</a>
+                                    <a class="text-white fw-600" href="#">agus.finardi@finardiconsulting.com</a>
 
                                 </div>
                             </div>
@@ -217,13 +193,49 @@
                         data-overlay="5">
                         <div class="row h-100 px-6 py-5">
                             <div class="col-12">
-                                <h5>Morgan Guadis</h5>
-                                <p class="text-uppercase small-3 ls-2 fw-500 text-primary">CoFounder &amp; CTO</p>
+                                <h5>Albertus Saptoprijono</h5>
+                                <p class="text-uppercase small-3 ls-2 fw-500 text-primary">Senior Consultant</p>
                             </div>
 
                             <div class="col-12 align-self-end">
                                 <div class="social social-inline social-sm social-light">
-                                    <a class="text-primary fw-600" href="#">jojo@gmail.com</a>
+                                    <a class="text-white fw-600" href="#">albertus.saptoprijono@finardiconsulting.com</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card bg-img h-250" style="background-image: url({{asset('images/team3.jpg')}});"
+                        data-overlay="5">
+                        <div class="row h-100 px-6 py-5">
+                            <div class="col-12">
+                                <h5>Iyong Bandono</h5>
+                                <p class="text-uppercase small-3 ls-2 fw-500 text-primary">Senior Consultant</p>
+                            </div>
+
+                            <div class="col-12 align-self-end">
+                                <div class="social social-inline social-sm social-light">
+                                    <a class="text-white fw-600" href="#">iyong.bandono@finardiconsulting.com</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card bg-img h-250" style="background-image: url({{asset('images/team3.jpg')}});"
+                        data-overlay="5">
+                        <div class="row h-100 px-6 py-5">
+                            <div class="col-12">
+                                <h5>Atika Hasna</h5>
+                                <p class="text-uppercase small-3 ls-2 fw-500 text-primary">Junior Consultant</p>
+                            </div>
+
+                            <div class="col-12 align-self-end">
+                                <div class="social social-inline social-sm social-light">
+                                    <a class="text-white fw-600" href="#">atika.hasna@finardiconsulting.com</a>
 
                                 </div>
                             </div>
@@ -231,101 +243,6 @@
                     </div>
                 </div>
 
-
-                <div class="col-md-4">
-                    <div class="media border border-glass rounded p-4">
-                        <a class="align-self-center mr-4" href="#">
-                            <img class="avatar avatar-xl" src="{{asset('images/user1.jpg')}}"" alt=" ...">
-                        </a>
-
-                        <div class="media-body">
-                            <h6 class="mb-1 mt-2">Sandi Hormez</h6>
-                            <p class="small-5 text-uppercase fw-400 ls-2 opacity-50 mb-2 text-primary">Lead Developer
-                            </p>
-
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div class="col-md-4">
-                    <div class="media border border-glass rounded p-4">
-                        <a class="align-self-center mr-4" href="#">
-                            <img class="avatar avatar-xl" src="{{asset('images/user2.jpg')}}"" alt=" ...">
-                        </a>
-
-                        <div class="media-body">
-                            <h6 class="mb-1 mt-2">Animor Tiruse</h6>
-                            <p class="small-5 text-uppercase fw-400 ls-2 opacity-50 mb-2 text-primary">Lead Designer</p>
-
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div class="col-md-4">
-                    <div class="media border border-glass rounded p-4">
-                        <a class="align-self-center mr-4" href="#">
-                            <img class="avatar avatar-xl" src="{{asset('images/user1.jpg')}}" alt="...">
-                        </a>
-
-                        <div class="media-body">
-                            <h6 class="mb-1 mt-2">Sarah Onex</h6>
-                            <p class="small-5 text-uppercase fw-400 ls-2 opacity-50 mb-2 text-primary">Designer</p>
-
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div class="col-md-4">
-                    <div class="media border border-glass rounded p-4">
-                        <a class="align-self-center mr-4" href="#">
-                            <img class="avatar avatar-xl" src="{{asset('images/user1.jpg')}}" alt="...">
-                        </a>
-
-                        <div class="media-body">
-                            <h6 class="mb-1 mt-2">Angelo Haynes</h6>
-                            <p class="small-5 text-uppercase fw-400 ls-2 opacity-50 mb-2 text-primary">Designer</p>
-
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div class="col-md-4">
-                    <div class="media border border-glass rounded p-4">
-                        <a class="align-self-center mr-4" href="#">
-                            <img class="avatar avatar-xl" src="{{asset('images/user2.jpg')}}" alt="...">
-                        </a>
-
-                        <div class="media-body">
-                            <h6 class="mb-1 mt-2">Allyssa Upton</h6>
-                            <p class="small-5 text-uppercase fw-400 ls-2 opacity-50 mb-2 text-primary">Support</p>
-
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div class="col-md-4">
-                    <div class="media border border-glass rounded p-4">
-                        <a class="align-self-center mr-4" href="#">
-                            <img class="avatar avatar-xl" src="{{asset('images/user1.jpg')}}" alt="...">
-                        </a>
-
-                        <div class="media-body">
-                            <h6 class="mb-1 mt-2">Colby Kerr</h6>
-                            <p class="small-5 text-uppercase fw-400 ls-2 opacity-50 mb-2 text-primary">Support</p>
-
-                        </div>
-                    </div>
-                </div>
 
 
             </div>
@@ -341,10 +258,10 @@
                     <div class="col-lg-12 pb-6" style="border-bottom:1px solid #000;">
                         <a href="/services">
                         <div class="row">
-                            <div class="col-lg-8 col-8 mt-6  pl-0 ">
+                            <div class="col-lg-9 col-9 mt-6  pl-0 ">
                                 <h3>View Our services</h3>
                             </div>
-                            <div class="col-lg-4 col-4 text-right "><i
+                            <div class="col-lg-3 col-3 text-right "><i
                                     class="fa fa-arrow-right display-4 fs-20 text-right text-dark mt-7"></i></div>
                         </div>
                     </a>
@@ -356,10 +273,10 @@
                     <div class="col-lg-12 pb-6" style="border-bottom:1px solid #000;">
                         <a href="/clients">
                         <div class="row">
-                            <div class="col-lg-8 col-8 mt-6 pl-0 ">
+                            <div class="col-lg-9 col-9 mt-6 pl-0 ">
                                 <h3>View Our Clients</h3>
                             </div>
-                            <div class="col-lg-4 col-4 text-right "><i
+                            <div class="col-lg-3 col-3 text-right "><i
                                     class="fa fa-arrow-right display-4 fs-20 text-right text-dark mt-7"></i></div>
                         </div>
                     </a>

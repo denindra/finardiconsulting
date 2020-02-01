@@ -8,7 +8,7 @@
 
             <div class="col-md-7 mx-auto">
                 <h2 class="ls-0 text-capitalize fw-700">Connect</h2>
-                <p class="lead-3  ls-1">Discover your business potential and get in touch <br/>with us!
+                <p class="lead-3  ls-1">Discover your business potential and get in touch with us!
                 </p>
             </div>
 
@@ -50,9 +50,9 @@
               <hr class="d-lg-none">
               <h3>Office and Contact number</h3>
               <br>
-              <p>Jalan Ki Male No.18, Panunggangan Timur, Pinang, Ruko Prominence Blok 38F No 69, RT.003/RW.006, Panunggangan Tim., Kec. Pinang, Kota Tangerang, Banten 15143</p>
-              <p>+62 (321) 654 9870<br>+62 (987) 123 6548</p>
-              <p>hello@thetheme.io</p>
+              <p>Palma Tower 20th Floor, JL. R.A Kartini III-S Kav. 6, Jakarta 12310, Indonesia</p>
+              <p>+62-21 508 588 08</p>
+              <p>atika.hasna@ffinardiconsulting.com</p>
              
           </form>
 

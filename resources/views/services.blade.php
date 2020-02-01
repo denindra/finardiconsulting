@@ -86,10 +86,10 @@
                     <div class="col-lg-12 pb-6" style="border-bottom:1px solid #000;">
                         <a href="/expertise">
                         <div class="row">
-                            <div class="col-lg-8 col-8 mt-6  pl-0 ">
+                            <div class="col-lg-9 col-9 mt-6  pl-0 ">
                                 <h3>    About & Expertise</h3>
                             </div>
-                            <div class="col-lg-4 col-4 text-right "><i
+                            <div class="col-lg-3 col-3 text-right "><i
                                     class="fa fa-arrow-right display-4 fs-20 text-right text-dark mt-7"></i></div>
                         </div>
                     </a>
@@ -101,10 +101,10 @@
                     <div class="col-lg-12 pb-6" style="border-bottom:1px solid #000;">
                         <a href="/clients">
                         <div class="row">
-                            <div class="col-lg-8 col-8 mt-6 pl-0 ">
+                            <div class="col-lg-9 col-9 mt-6 pl-0 ">
                                 <h3>View Our Clients</h3>
                             </div>
-                            <div class="col-lg-4 col-4 text-right "><i
+                            <div class="col-lg-3 col-3 text-right "><i
                                     class="fa fa-arrow-right display-4 fs-20 text-right text-dark mt-7"></i></div>
                         </div>
                     </a>

@@ -12,18 +12,15 @@
                 <p class="lead-3  ls-1">
 
                     Here at <span class="text-primary">Finardi&Co</span> we value passion and
-knowledge, If business challenges inspire you,
-have valuable experiences and knowledge that are
-worth sharing, or passionate to pursue your path
-in business consultancy, you are most welcome at
-Finardi&Co.
+                    knowledge. If business challenges inspire you, have valuable experiences and knowledge that are worth sharing, or passionate to pursue your path in business consultancy, you are most welcome at Finardi&Co.
+
                 </p>
                 <a href="#position"class="btn btn-primary btn-xl btn-round">Find Position</a>
             </div>
 
         </div>
     </div>
-    <section class="section p-0 mt-8">
+    {{-- <section class="section p-0 mt-8">
         <div data-provide="slider" data-autoplay="true" data-slides-to-show="2" data-css-ease="linear" data-speed="12000" data-autoplay-speed="0" data-pause-on-hover="false">
           <div class="p-2">
             <div class="rounded bg-img h-400" style="background-image: url(http://thetheme.io/thesaas/assets/img/thumb/12.jpg)"></div>
@@ -41,7 +38,7 @@ Finardi&Co.
             <div class="rounded bg-img h-400" style="background-image: url({{asset('images/team2.jpg')}})"></div>
           </div>
         </div>
-      </section>
+      </section> --}}
 </header>
 
 <main class="main-content ">
@@ -76,8 +73,8 @@ Finardi&Co.
                                 
                                </div>
                                 <div class="col-md-3 my-2 text-center">
-                                    <button type="button" class="btn btn-lg btn-primary"
-                                        onclick="show_modal_applicants(5,6)">Apply Now</button>
+                                    <a type="button" class="btn btn-lg btn-primary"
+                                    href="mailto: atika.hasna@ffinardiconsulting.com">Apply Now</a>
                                 </div>
 
                             </div>
@@ -106,8 +103,8 @@ Finardi&Co.
                                     could be someone that we are looking for.
                                    </div>
                                 <div class="col-md-3 my-2 text-center">
-                                    <button type="button" class="btn btn-lg btn-primary"
-                                        onclick="show_modal_applicants(5,6)">Apply Now</button>
+                                    <a type="button" class="btn btn-lg btn-primary"
+                                    href="mailto: atika.hasna@ffinardiconsulting.com">Apply Now</a>
                                 </div>
 
                             </div>
@@ -136,8 +133,8 @@ Finardi&Co.
                                     collaboration.
                                    </div>
                                 <div class="col-md-3 my-2 text-center">
-                                    <button type="button" class="btn btn-lg btn-primary"
-                                        onclick="show_modal_applicants(5,6)">Apply Now</button>
+                                    <a type="button" class="btn btn-lg btn-primary"
+                                        href="mailto: atika.hasna@ffinardiconsulting.com">Apply Now</a>
                                 </div>
 
                             </div>
@@ -167,8 +164,8 @@ Finardi&Co.
                                     
                                    </div>
                                 <div class="col-md-3 my-2 text-center">
-                                    <button type="button" class="btn btn-lg btn-primary"
-                                        onclick="show_modal_applicants(5,6)">Apply Now</button>
+                                    <a type="button" class="btn btn-lg btn-primary"
+                                        href="mailto: atika.hasna@ffinardiconsulting.com">Apply Now</a>
                                 </div>
 
                             </div>
