@@ -54,7 +54,7 @@ Connect
               <br>
               <p>Palma Tower 20th Floor, JL. R.A Kartini III-S Kav. 6, Jakarta 12310, Indonesia</p>
               <p>+62-21 508 588 08</p>
-              <p>atika.hasna@ffinardiconsulting.com</p>
+              <p>atika.hasna@finardiconsulting.com</p>
              
           </form>
 
