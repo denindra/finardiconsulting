@@ -8,10 +8,10 @@
     <div class="row h-half">
       <div class="col-12 col-lg-8 align-self-center">
        
-        <h1 class="display-5  fw-700 ls-0 text-white text-capitalize">We Are Guided by your <span
+        <h2 class="display-5  fw-700 ls-0 text-white text-capitalize">We Are Guided by your <span
             class="text-primary">Goals</span>, Inspired by your <span class="text-primary">Vision</span>. Together, We
           Extend Your Plan and <br/><span class="text-primary">Make it happen</span>
-        </h1>
+        </h2>
         <a class="btn btn-xl btn-round btn-outline-primary  mt-2" href="#aboutus">Learn More</a>
 
         <a class="btn btn-xl btn-round btn-primary ml-2 mt-2" href="http://ncommerce.id/signup">Connect Now</a>
