@@ -8,7 +8,7 @@
     <div class="row h-half">
       <div class="col-12 col-lg-8 align-self-center">
        
-        <h1 class="display-5  fw-700 ls-0 text-white text-capitalize">We Are Guided by  your<span
+        <h1 class="display-5  fw-700 ls-0 text-white text-capitalize">We Are Guided by your <span
             class="text-primary">Goals</span>, Inspired by your <span class="text-primary">Vision</span>. Together, We
           Extend Your Plan and <br/><span class="text-primary">Make it happen</span>
         </h1>
@@ -51,8 +51,7 @@
           <div class="card card-body shadow-3 text-center  ">
             <p class="my-5"><i class="icon-browser lead-6"></i></p>
             <h5 class="mb-5 fw-500"><a href="#">Governence</a></h5>
-            <p>We Help our Clients to align all the measurestogetheer to create a long-term sustainabble financial
-              perfomers</p>
+            <p>We help our clients to align all the measures together to create a long-term sustainable financial performance</p>
             <a href="/expertise/#expert" class="text-primary mb-4">Learn more</a>
           </div>
         </div>
@@ -61,8 +60,7 @@
           <div class="card card-body shadow-3 text-center">
             <p class="my-5"><i class="icon-mobile lead-6"></i></p>
             <h5 class="mb-5 fw-500"><a href="#">Strategy</a></h5>
-            <p>Develop a corporate startegy that produces sustainable value, one that empowers you to reach full
-              potential in your core business</p>
+            <p>Develop a corporate strategy that produces sustainable value, one that empowers you to reach full potential in your core business</p>
               <a href="/expertise/#expert" class="text-primary mb-4">Learn more</a>
           </div>
         </div>
@@ -71,7 +69,7 @@
           <div class="card card-body shadow-3 text-center  ">
             <p class="my-5"><i class="icon-linegraph lead-6"></i></p>
             <h5 class="mb-5 fw-500"><a href="#">Implementation</a></h5>
-            <p>Enables you to take each capacity within your company to new levels of perofrmance<br>&nbsp;</p>
+            <p>enables you to take each capacity within your company to new levels of performance<br>&nbsp;</p>
 
             <a href="/expertise/#expert" class="text-primary mb-4">Learn more</a>
           </div>
@@ -93,9 +91,9 @@
       <header class="section-header">
         <h2 class="text-dark fw-700">Services</h2>
         <hr class="text-primary fw-700 mt-2">
-        <p class="fs-20 display-5 text-center ls-1">Partener to us means what we care about your business's success just
-          as much as you do. since we are talking business strategy, ours is to be your long-term collaborative team.
-          our holistic approach looks at the big picture and will guide you through the smallest details.
+        <p class="fs-20 display-5 text-center ls-1">Partnership to us means that we care about your business’s success just as much as you do. Since we are talking business strategy, ours is to be your long-term collaborative team. 
+
+          Our holistic approach looks at the big picture and will guide you through the smallest details. 
         </p>
       </header>
 
@@ -117,7 +115,7 @@
 
               <div class="step-content">
                 <h4>Advisory</h4>
-                <p class="fs-18">Think the or organization same proposal to affected heard reclined in be it reassuring.
+                <p class="fs-18">Retainer based project that will help you through a long-term of execution. 
                 </p>
               </div>
             </li>
@@ -129,7 +127,8 @@
 
               <div class="step-content">
                 <h4>Consulting</h4>
-                <p class="fs-18">Think the or organization same proposal to affected heard reclined in be it reassuring.
+                <p class="fs-18">Consultancy service to your specific project that will enhance your accuracy on making business. 
+
                 </p>
               </div>
             </li>
@@ -141,7 +140,7 @@
 
               <div class="step-content">
                 <h4>Business Set-Up Services</h4>
-                <p class="fs-18">Think the or organization same proposal to affected heard reclined in be it reassuring.
+                <p class="fs-18">Preparing and enabling your business plan, from scratch to the launching phase.
                 </p>
               </div>
             </li>

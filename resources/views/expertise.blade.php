@@ -35,12 +35,8 @@
                     <p class="small-2 text-uppercase text-lightest fw-500 ls-1">Experitse 1.</p>
                     <h3 class="fw-500">Governence</h3>
                     <br>
-                    <p>We understand that leadership, culture, and
-                        employee engagement are critical aspects
-                        that enable and drive financial performance.
-                        We help our clients to align all the measures
-                        together to create a long-term sustainable
-                        financial performance.
+                    <p>We understand that leadership, culture, and employee engagement are critical aspects that enable and drive financial performance. We help our clients to align all the measures together to create a long-term sustainable financial performance. 
+
                     </p>
                 </div>
                 <div class="col-md-5 mx-auto">
@@ -55,31 +51,12 @@
             <div class="row gap-y">
                 <div class="col-md-6">
                     <h6 class="text-primary">Family Business Governance</h6>
-                    <p>Being a business owner and top
-                        executives in a company that have
-                        strong family value can be a challenging
-                        situation. The intimate bond sometimes
-                        predisposes business decision and turn
-                        into misguided business practice.
-                        Creating balance among families and
-                        businesses w ll form reliable governance
-                        structure and effective policies for a
-                        family business. where the business an
-                        family value can be strongly aligned.</p>
+                    <p>Being a business owner and top executives in a company that have strong family value can be a challenging situation. The intimate bond sometimes predisposes business decision and turn into misguided business practice. Creating balance among families and businesses will form reliable governance structure and effective policies for a family business, where the business and family value can be strongly aligned.</p>
                 </div>
                 <div class="col-md-6">
                     <h6 class="text-primary">Corporate Governance</h6>
-                    <p>The application of good corporate
-                        governance to a company will influence
-                        strategic policy and how the company
-                        carries out its business practices. These
-                        changes will directly affect the
-                        achievement of overall performance an
-                        believed to be the main contributor to
-                        improving company performance. We
-                        adapt our services to meet the needs and
-                        specific requirements of each individual
-                        organization.
+                    <p>The application of good corporate governance to a company will influence strategic policy and how the company carries out its business practices. These changes will directly affect the achievement of overall performance and believed to be the main contributor to improving company performance. We adapt our services to meet the needs and specific requirements of each individual organization.
+
                     </p>
                 </div>
 
@@ -116,15 +93,9 @@
             <div class="row gap-y">
                 <div class="col-md-4">
                     <h6 class="text-primary">Corporate Strategy</h6>
-                    <p>A strategy for business means
-                        understanding your company's strengths
-                        and how they can make a difference in
-                        3-on choose to invest. By
-                        evaluating your core as a business, we
-                        stretch boundaries of what is possible.
-                        To make sure that every angle is
-                        considered, for your company to meet a
-                        specific goal.</p>
+                    <p>A strategy for business means understanding your company’s strengths and how they can make a difference in where you choose to invest. By evaluating your core as a business, we stretch boundaries of what is possible. To make sure that every angle is considered, for your company to meet a specific goal. 
+
+                    </p>
                 </div>
                 <div class="col-md-4">
                     <h6 class="text-primary">Retail & Distribution</h6>
