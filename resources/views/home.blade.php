@@ -42,12 +42,7 @@
       </div>
       <div class="row">
         <div class="col-lg-12">
-          <p class="fs-20 display-5 text-center ls-1">We believe in sustainable business growth rooted
-            by well-operated business governance. Growth
-            strategy and business expansion are at the heart of
-            what we have done at Finardi&Co. Through our
-            partnership, we will help you start, grow, and
-            achieve what you have never thought possible.
+          <p class="fs-20 display-5 text-center ls-1">We believe in sustainable business growth rooted by well-operated business governance. Growth strategy and business expansion are at the heart of what we have done at Finardi&Co. Through our partnership, we will help you start, grow, and achieve what you have never thought possible. 
           </p>
         </div>
       </div>
@@ -167,7 +162,7 @@
   <!-- desktop  -->
 
 
-
+{{-- 
   <section class="section"
     style="background-image: url({{asset('images/pattern-bg1.jpg')}});background-size:cover;background-position:center;">
     <div class="container">
@@ -243,7 +238,7 @@
       </div>
 
     </div>
-  </section>
+  </section> --}}
 
   <section class="section py-10"
     style="background-image: url({{asset('images/team3.jpg')}});background-position:  top center  ">
