@@ -7,9 +7,9 @@
   <div class="container">
     <div class="row h-half">
       <div class="col-12 col-lg-8 align-self-center">
-
-        <h1 class="display-5  fw-700 ls-0 text-white text-capitalize">We Are Guided by <span
-            class="text-primary">Goals</span>, Insipred by your <span class="text-primary">Vision</span>. Together, We
+       
+        <h1 class="display-5  fw-700 ls-0 text-white text-capitalize">We Are Guided by  your<span
+            class="text-primary">Goals</span>, Inspired by your <span class="text-primary">Vision</span>. Together, We
           Extend Your Plan and <br/><span class="text-primary">Make it happen</span>
         </h1>
         <a class="btn btn-xl btn-round btn-outline-primary  mt-2" href="#aboutus">Learn More</a>
