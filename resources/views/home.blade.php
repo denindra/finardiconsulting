@@ -16,7 +16,7 @@ Home
         </h2>
         <a class="btn btn-xl btn-round btn-outline-primary  mt-2" href="#aboutus">Learn More</a>
 
-        <a class="btn btn-xl btn-round btn-primary ml-2 mt-2" href="http://ncommerce.id/signup">Connect Now</a>
+        <a class="btn btn-xl btn-round btn-primary ml-2 mt-2" href="/contact">Connect Now</a>
 
 
 

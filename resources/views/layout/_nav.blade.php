@@ -1,6 +1,6 @@
 <!-- Navbar -->
 {{-- <div id="navbar"></div> --}}
-<nav class="navbar navbar-expand-lg navbar-dark bg-white text-dark py-3" style="top:0;" data-navbar="fixed">
+<nav class="navbar navbar-expand-lg navbar-dark bg-white text-dark py-4" style="top:0;" data-navbar="fixed">
   <div class="container">
 
     <div class="navbar-left">

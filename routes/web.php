@@ -15,4 +15,5 @@ Route::get('/expertise', 'HomeController@expertise');
 Route::get('/contact', 'HomeController@contact');
 Route::get('/services', 'HomeController@services');
 Route::get('/career', 'HomeController@career');
+Route::get('/clients', 'HomeController@clients');
 
