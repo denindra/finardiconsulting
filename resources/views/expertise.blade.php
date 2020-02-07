@@ -35,7 +35,7 @@ About & Expertise
 
                 <div class="col-md-6 text-md-right">
                     <p class="small-2 text-uppercase text-lightest fw-500 ls-1">Experitse 1.</p>
-                    <h3 class="fw-500">Governence</h3>
+                    <h3 class="fw-500">Governance</h3>
                     <br>
                     <p>We understand that leadership, culture, and employee engagement are critical aspects that enable and drive financial performance. We help our clients to align all the measures together to create a long-term sustainable financial performance. 
 

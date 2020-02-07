@@ -52,7 +52,7 @@ Home
         <div class="col-md-6 col-xl-4 mt-5">
           <div class="card card-body shadow-3 text-center  ">
             <p class="my-5"><i class="icon-browser lead-6"></i></p>
-            <h5 class="mb-5 fw-500"><a href="#">Governence</a></h5>
+            <h5 class="mb-5 fw-500"><a href="#">Governance</a></h5>
             <p>We help our clients to align all the measures together to create a long-term sustainable financial performance</p>
             <a href="/expertise/#expert" class="text-primary mb-4">Learn more</a>
           </div>
