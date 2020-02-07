@@ -16,7 +16,7 @@
         <a class="nav-link" href="/">Home</a>
         <a class="nav-link" href="/expertise">About & Expertise</a>
         <a class="nav-link" href="/services">services</a>
-        <a class="nav-link" href="/clients">Clients</a>
+        {{-- <a class="nav-link" href="/clients">Clients</a> --}}
         <a class="nav-link" href="/career">Career</a>
        
       </nav>
